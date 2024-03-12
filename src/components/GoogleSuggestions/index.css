@@ -1,0 +1,34 @@
+/* Write your CSS here */
+
+.MainContainerGoogleSuggestionsPage {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.GoogleLogoImageContainer {
+  height: 100px;
+}
+.SearchBoxContainer {
+  width: 500px;
+  padding: 20px;
+  margin: 30px;
+  box-shadow: 0px 4px 16px 0 #bfbfbf;
+  border-radius: 10px;
+}
+.SearchLogoInputContainer {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  background-color: white;
+}
+.SearchLogo {
+  height: 20px;
+}
+.googleSuggestionsInput {
+  width: 100%;
+  border: 0;
+  outline: none;
+  margin-left: 5px;
+}

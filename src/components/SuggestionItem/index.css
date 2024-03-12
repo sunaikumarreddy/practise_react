@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.SuggestionItemContainer {
+  display: flex;
+  justify-content: space-between;
+}
+.SuggestionDeleteButton {
+  border: 0;
+  background: none;
+}
+.SuggestionArrow {
+  height: 20px;
+}
